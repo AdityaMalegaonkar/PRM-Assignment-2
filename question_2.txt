@@ -1,0 +1,6 @@
+Q) Describe any project what you have done in Edyoda?
+Ans -> I have created some good projects in Edyoda and it also helped me in learning so many things and how to tackle problems in programming.
+One of my recent project is of creating a program of a quiz game. In this program a list of different topics of quiz appears and the user has to
+enter the number of the quiz he/she wants to attemnpt. After entering the number the question along with the options appears one by one and the user
+has to enter his/her answer. There are 10 questions in total each containing 10 marks. After completing the quiz the score is shown along with 
+all the correct answers and also user's answer, and if the score is less than 70% then it shows "failed" else "Congratulations, Passed".
